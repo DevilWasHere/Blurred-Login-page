@@ -1,4 +1,5 @@
 # Blurred Login Page
+Made by Aiden Erickson
 - Blurred BG
 - Easy UI
 - Working
