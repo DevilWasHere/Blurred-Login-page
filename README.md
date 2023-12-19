@@ -1,6 +1,6 @@
 # Blurred Login Page
 Made by Aiden Erickson
-- Blurred BG
+- Blurred Background
 - Easy UI
 - Working
 
